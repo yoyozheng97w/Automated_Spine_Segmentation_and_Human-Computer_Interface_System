@@ -15,7 +15,7 @@ Design an artificial intelligence algorithm that can predict the probability of 
 A DICOM contain an advanced function - Spine Segmentation. 
 ![](https://i.imgur.com/xz1sovX.png)
 
-[More Detailed](https://docs.google.com/document/d/1BAk_GDI7SnA05f3iKshl8ktfqSTvdIAX/edit?usp=sharing&ouid=108756677729144740043&rtpof=true&sd=true)
+[More Detailed](https://drive.google.com/file/d/13OxCm9ke6l2e4mP-CD1daERxWT1IGxVh/view?usp=drive_link)
 
 ## Set up
 1. Create a new enviroment
